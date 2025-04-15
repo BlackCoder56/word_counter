@@ -44,6 +44,6 @@ There are 120 words in sample.txt file.
 
 If the file does not exist, the script will print:
 
-## Output
+**Output**
 
 File doesnot exist
