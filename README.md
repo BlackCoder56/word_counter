@@ -23,7 +23,7 @@ Save the script as word_counter.py.
 Run the script:
 
 ```bash
-python word_counter.py
+python3 word_counter.py
 ```
 
 ***Enter the name of the file you want to analyze (make sure it's in the same directory or provide the full path).***
