@@ -1,8 +1,8 @@
-##📝 Word Counter Script
+## 📝 Word Counter Script
 
 This is a simple Python script that counts the number of words in a given text file.
 
-##📌 Features
+## 📌 Features
 
 Prompts the user to enter a file name.
 
@@ -12,11 +12,11 @@ Reads the file content and counts the total number of words.
 
 Handles missing files gracefully without crashing.
 
-##🛠️ Requirements
+## 🛠️ Requirements
 
 Python 3.x
 
-##🚀 How to Use
+## 🚀 How to Use
 
 Save the script as word_counter.py.
 
@@ -30,7 +30,7 @@ python word_counter.py
 
 The script will display the number of words in the file.
 
-##📂 Example
+## 📂 Example
 
 ```bash
 Enter file name: sample.txt
@@ -40,10 +40,10 @@ Enter file name: sample.txt
 
 There are 120 words in sample.txt file.
 
-##⚠️ Notes
+## ⚠️ Notes
 
 If the file does not exist, the script will print:
 
-##Output
+## Output
 
 File doesnot exist
